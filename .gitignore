@@ -1,0 +1,3 @@
+#Ignores
+.idea/
+node_modules/
